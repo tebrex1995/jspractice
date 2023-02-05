@@ -34,3 +34,12 @@
 // };
 
 // console.log(percentage("Serbia", 6.8));
+
+// const percentage = (country, population) => {
+//   return `${country} has ${population}, so its about ${
+//     (population / 7900) * 100
+//   } of the world population. `;
+// };
+
+// const percentageSerbia = percentage("Serbia", 6.8);
+// console.log(percentageSerbia);
